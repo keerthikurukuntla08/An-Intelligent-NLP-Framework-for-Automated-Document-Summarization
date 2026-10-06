@@ -1,0 +1,1 @@
+"""Academic document learning API package."""

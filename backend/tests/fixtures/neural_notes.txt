@@ -1,0 +1,5 @@
+Chapter 1: Neural Networks
+Neural networks learn patterns from examples. A training dataset contains examples and labels. The model adjusts its weights during training to reduce prediction error.
+
+Chapter 2: Evaluation
+Precision measures the fraction of predicted positives that are correct. Recall measures the fraction of actual positives that are found.
